@@ -11,7 +11,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+
 *.war
 *.nar
 *.ear
@@ -19,6 +19,37 @@
 *.tar.gz
 *.rar
 
+# Minecraft Specific
+banned-players.json
+banned-ips.json
+.paper-remapped/
+bStats/
+world/
+world_the_end/
+world_nether/
+usercache.json
+version_history.json
+whitelist.json
+versions/
+spark/
+logs/
+libraries/
+cache/
+.cache/
+ops.json
+permissions.yml
+eagler_skins_cache.db
+help.yml
+server-animation.png
+test_image.png
+pause_menu.yml
+ice_servers.yml
+eagcert/
+drivers/
+
+# js for some reason
+*.js
+*.html
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*

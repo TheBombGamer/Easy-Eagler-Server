@@ -1,0 +1,7 @@
+Required Plugins:
+
+- Viaversion
+- Via Backwards
+- Via Rewind
+- Skinrestorer
+- EaglerX Plugins
