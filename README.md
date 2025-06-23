@@ -9,4 +9,4 @@ Support Discord: https://discord.gg/tCuJvM7XJf
 
 Setup: 
 First use a decent host such as tick hosting https://tickhosting.xyz/ or bisect hosting https://www.bisecthosting.com/curseforge?curseforge_project_id=1279853&dl=1 paid servers are better than the free ones (true for all hosts)!
-![alt text](https://img.wiki.kyle-hosting.xyz/github/bisect.png)
+<a href="https://www.bisecthosting.com/curseforge?curseforge_project_id=1279853&dl=1"><img src="https://img.wiki.kyle-hosting.xyz/github/bisect.png"></a>
