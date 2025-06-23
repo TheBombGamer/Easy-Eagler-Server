@@ -14,7 +14,7 @@ tls_config:
   tls_private_key_password: ''
   tls_auto_refresh_cert: true
 redirect_legacy_clients_to: ''
-server_icon: 'server-icon.png'
+server_icon: ''
 server_motd:
 - '&6An EaglercraftX server'
 allow_motd: true
