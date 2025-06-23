@@ -13,3 +13,6 @@ First use a decent host such as tick hosting https://tickhosting.xyz/ or bisect 
 
 # Sponsored By:
 <a href="https://www.bisecthosting.com/curseforge?curseforge_project_id=1279853&dl=1" target="_blank"><img src="https://img.wiki.kyle-hosting.xyz/github/bisect.png"></a>
+
+# Download Here
+https://github.com/TheBombGamer/Easy-Eagler-Server/releases/tag/1.1
