@@ -1,5 +1,4 @@
 server_name: 'EaglercraftXServer'
-server_uuid: '022af04b-a887-43d4-a4bf-4609f9b47c1b'
 eagler_login_timeout: 10000
 http_max_initial_line_length: 4096
 http_max_header_size: 16384
